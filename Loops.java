@@ -5,6 +5,7 @@ public class Loops {
         main4();
         main5();
         main6();
+        
         for(int i=1; i<=15; i++){
             System.out.print(i);
         }
